@@ -1,0 +1,13 @@
+name: Paxlovid
+title: Paxlovid
+username:
+account: savinkina
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6373452
+bundleId: 6142763
+url: https://savinkina.shinyapps.io/Paxlovid/
+when: 1659027706.9816
+lastSyncTime: 1659027706.98161
+asMultiple: FALSE
+asStatic: FALSE
